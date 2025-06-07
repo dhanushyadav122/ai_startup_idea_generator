@@ -28,3 +28,8 @@ git clone https://github.com/dhanushyadav122/ai_startup_idea_generator.git
 cd ai_startup_idea_generator
 pip install -r requirements.txt
 python app.py
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and share it for learning and personal projects.
+
