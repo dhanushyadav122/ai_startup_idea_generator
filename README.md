@@ -14,3 +14,13 @@ This is a GPT-based AI app that suggests startup ideas using Hugging Face Transf
 ```bash
 pip install -r requirements.txt
 python app.py
+
+## How to Run Locally 🚀
+
+1️⃣ Clone this repository:
+
+```bash
+git clone https://github.com/dhanushyadav122/ai_startup_idea_generator.git
+cd ai_startup_idea_generator
+pip install -r requirements.txt
+python app.py
