@@ -1,7 +1,7 @@
-# 🚀 AI Startup Idea Generator 🧠✨
+ AI Startup Idea Generator
 
 > A GPT-based app to generate creative AI-powered startup ideas.  
-> Built with ❤️ using Hugging Face Transformers and Gradio.
+> Built with  using Hugging Face Transformers and Gradio.
 
 ---
 
@@ -10,18 +10,18 @@
 
 ---
 
-## Features
+# Features
 
-✅ Input your interest area  
-✅ Get creative startup ideas powered by AI  
-✅ Simple web interface using Gradio  
-✅ Lightweight and easy to run locally  
+ Input your interest area  
+ Get creative startup ideas powered by AI  
+ Simple web interface using Gradio  
+ Lightweight and easy to run locally  
 
 ---
 
-## How to Run Locally 🚀
+# How to Run Locally
 
-1️⃣ Clone this repository:
+1️ Clone this repository:
 
 ```bash
 git clone https://github.com/dhanushyadav122/ai_startup_idea_generator.git
